@@ -1,0 +1,17 @@
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Assembly-CSharp.dll
+/projects/super_zombie_runner/SuperZombieRunner/obj/Debug/Assembly-CSharp.dll
+/projects/super_zombie_runner/SuperZombieRunner/obj/Debug/Assembly-CSharp.dll.mdb
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/UnityEngine.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/UnityEditor.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/UnityEngine.Networking.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/UnityEngine.UI.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Mono.Cecil.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Unity.SerializationLogic.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Unity.DataContract.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Unity.UNetWeaver.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Unity.CecilTools.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/projects/super_zombie_runner/SuperZombieRunner/Temp/bin/Debug/Mono.Cecil.Mdb.dll
